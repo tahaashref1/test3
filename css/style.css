@@ -30,4 +30,5 @@ text-align: center;
 }
 .qr{
     color: hsl(216, 15%, 48%);
+    padding-bottom: 7px;
 }
